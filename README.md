@@ -33,17 +33,13 @@ To get started with DawnSetDial, follow these steps:
 - Design the user interface (UI) for location selection, alarm settings, etc.
 - Implement logic to fetch data from the SQL database and display sunrise/sunset times.
 
-## Usage
+## Roadmap
 
-1. Open the DawnSetDial iOS app on your device.
-2. Choose a location or enter coordinates to retrieve sunrise and sunset times.
-3. Set alarms based on sunrise or sunset times for your desired location.
-4. Customize alarm settings, snooze options, etc., as per your preferences.
-5. Enjoy the app and plan your day around sunrise and sunset timings!
+- See roadmap.MD in repository.
 
 ## Contributing
 
-Contributions to DawnSetDial are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
+- If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
 
 ## License
 
