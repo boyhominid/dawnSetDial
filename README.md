@@ -35,7 +35,7 @@ To get started with DawnSetDial, follow these steps:
 
 ## Roadmap
 
-- See (roadmap.md) in repository.
+- See the [project roadMap](roadMap) in repository.
 
 ## Contributing
 
