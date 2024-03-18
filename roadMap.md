@@ -65,7 +65,3 @@ This document outlines the planned features, milestones, and timeline for the de
 3. **Cloud Synchronization (Phase 13):**
    - Implement cloud synchronization for alarms, settings, and location preferences.
    - Enable users to access their data across multiple devices.
-
----
-
-Feel free to adjust the milestones, features, and timelines as per your development schedule and priorities. This roadmap provides a structured plan for the evolution of DawnSetDial, from its initial MVP to advanced features and enhancements.
