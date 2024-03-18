@@ -1,7 +1,3 @@
-Certainly! Here's a README roadmap in Markdown format for your DawnSetDial project:
-
----
-
 # DawnSetDial Roadmap
 
 Welcome to DawnSetDial's roadmap! This document outlines the planned features, milestones, and timeline for the development of DawnSetDial, a sunrise and sunset alarm clock application.
