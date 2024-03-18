@@ -35,7 +35,7 @@ To get started with DawnSetDial, follow these steps:
 
 ## Roadmap
 
-- See roadmap.MD in repository.
+- See (roadmap.md) in repository.
 
 ## Contributing
 
@@ -43,4 +43,4 @@ To get started with DawnSetDial, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL License](LICENSE).
