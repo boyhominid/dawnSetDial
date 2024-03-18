@@ -1,6 +1,6 @@
 # DawnSetDial Roadmap
 
-Welcome to DawnSetDial's roadmap! This document outlines the planned features, milestones, and timeline for the development of DawnSetDial, a sunrise and sunset alarm clock application.
+This document outlines the planned features, milestones, and timeline for the development of DawnSetDial, a sunrise and sunset alarm clock application.
 
 ## Version 1.0 (MVP - Minimum Viable Product)
 
