@@ -9,7 +9,7 @@ DawnSetDial is a sunrise and sunset alarm clock application that allows users to
 - Store and manage location data and alarm settings in a SQL database.
 - iOS app development using Swift for a user-friendly interface.
 
-## Getting Started
+## Getting started (for contributors)
 
 To get started with DawnSetDial, follow these steps:
 
@@ -35,7 +35,7 @@ To get started with DawnSetDial, follow these steps:
 
 ## Roadmap
 
-- See the [project roadMap](roadMap.md) in repository.
+- See the [project roadMap](roadMap.md) in-repository.
 
 ## Contributing
 
